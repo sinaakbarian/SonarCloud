@@ -37,4 +37,6 @@ SonarCloud is an online tool designed to analyze code quality and assist in impr
 5. **Run the Project:**
    - With the SonarCloud integration in place, your project is now ready for analysis and improvement.
 
-For more details and advanced configuration options, refer to the [SonarCloud Documentation](https://sonarcloud.io/documentation/project-administration/narrowing-the-focus/).
+For more details and advanced configuration options, refer to the [SonarCloud Documentation](https://docs.sonarsource.com/sonarcloud/?_gl=1*1t70p4v*_gcl_au*MjEzNjA1OTA4OC4xNzAxNDY0NDI3*_ga*MzkyNDA3NTYwLjE3MDE0NjQ0Mjc.*_ga_9JZ0GZ5TC6*MTcwMTQ2NDQyNi4xLjAuMTcwMTQ2NDQyNi42MC4wLjA.).
+
+
