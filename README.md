@@ -19,7 +19,7 @@ SonarCloud is an online tool designed to analyze code quality and assist in impr
      ```
    
 4. **GitHub Action Workflow:**
-   - Add the following YAML configuration to your project's GitHub Actions workflow file (e.g., `.github/workflows/sonarcloud.yml`):
+   - Add the following YAML configuration to your project's GitHub Actions workflow file (e.g., `workflows/sonarcloud.yml`):
      ```yaml
      jobs:
        sonarcloud:
